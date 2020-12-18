@@ -1,6 +1,6 @@
 {
   "name": "dnn-icon",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "Dnn Icon, Automation workflow with Figma",
   "main": "bundle/index.common.js",
   "files": [
