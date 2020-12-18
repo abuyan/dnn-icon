@@ -58,12 +58,12 @@
   }
   body{
     font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-    font-size: 16px;
+    font-size: 14px;
   }
   .container {
     font-family: "Avenir", Helvetica, Arial, sans-serif;
     width: 100%;
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 0 auto;
     padding: 15px;
   }
@@ -79,8 +79,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 120px;
-    height: 120px;
+    width: 160px;
+    height: 160px;
     padding: 20px;
     border-radius: 6px;
     cursor: pointer;
