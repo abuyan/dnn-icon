@@ -1,7 +1,7 @@
 {
   "name": "dnn-icon",
   "version": "0.0.5",
-  "description": "Juuust Vue Icon, Automation workflow with Figma",
+  "description": "Dnn Icon, Automation workflow with Figma",
   "main": "bundle/index.common.js",
   "files": [
     "dist",
