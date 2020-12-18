@@ -1,4 +1,4 @@
-# juuust-vue-icon
+# dnn-icon
 
 ## Project setup
 ```
